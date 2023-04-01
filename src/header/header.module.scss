@@ -1,0 +1,25 @@
+@import "../common/styles/sass/variables";
+
+.header{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    clear: both;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    outline: none;
+    --font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 0;
+    word-wrap: break-word;
+    font-weight: 400;
+    background-color: $backgroundSecondColor;
+    --main-color: #86756c;
+}

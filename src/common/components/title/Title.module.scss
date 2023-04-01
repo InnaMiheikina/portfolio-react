@@ -1,0 +1,17 @@
+@import "../../styles/sass/variables";
+@import "../../styles/sass/mixins";
+
+
+.title {
+  @include text(32px,400);
+
+  //display: block;
+  margin-bottom: 13px;
+  //box-sizing: border-box;
+  //text-align: center;
+  //letter-spacing: 0;
+  //word-wrap: break-word;
+}
+
+
+

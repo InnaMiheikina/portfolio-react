@@ -1,0 +1,30 @@
+@import "variables";
+
+
+@mixin text($fontSize, $fontWeight) {
+  font-size: $fontSize;
+  font-weight: $fontWeight;
+  line-height: 1.3;
+  color: $color;
+}
+
+@mixin container() {
+  //border: 1px solid;
+  height: 100%;
+  width: 80%;
+  margin: 0 auto; /*на середину*/
+  display: flex;
+  align-items: center; /*по второстепенной оси*/
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px 40px;
+  position: relative;
+  vertical-align: baseline;
+  outline: none;
+  --font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0;
+  word-wrap: break-word;
+  font-weight: 400;
+}

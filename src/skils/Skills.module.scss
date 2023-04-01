@@ -1,0 +1,22 @@
+@import "../common/styles/sass/variables";
+@import "../common/styles/sass/mixins";
+
+.skillsBlock {
+    min-height: 100vh;
+    background-color:$backgroundSecondColor;
+    --main-color: $--main-color;
+    padding: 50px 0;
+  .skillsContainer {
+    @include container();
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    .skills {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+  }
+}
+
+
