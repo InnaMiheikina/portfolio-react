@@ -3,7 +3,7 @@ import style from './Project.module.scss'
 
 const Project = (props) => {
     return (
-        <a href={'/'}  target={'_blank'} className={style.project}>
+        <a href={props.href}  target={'_blank'} className={style.project}>
            <div className={style.imgProjectContainer}>
                <div className={style.imgProject} style={props.style}>
                </div>

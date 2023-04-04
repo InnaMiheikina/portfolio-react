@@ -19,6 +19,9 @@ const Projects = () => {
     const Cards = {
         backgroundImage: `url(${todoImage})`
     }
+    const Counter = {
+        backgroundImage: `url(${socialImage})`
+    }
     return (
         <div>
             <div id={'projects'} className={style.projectsBlock}>
@@ -30,10 +33,11 @@ const Projects = () => {
                     </div>
                     <Fade>
                         <div className={style.projects}>
-                            <Project style={socialNetwork} title={'Social Network'}/>
-                            <Project style={todolist} title={'Todolist'}/>
-                            <Project style={todolistToolkit} title={'todolistToolkit'}/>
-                            <Project style={Cards} title={'Cards'}/>
+                            <Project style={socialNetwork} title={'Social Network'} href={"https://InnaMiheikina.github.io/samurai-way"} />
+                            <Project style={todolist} title={'Todolist'} href={"https://InnaMiheikina.github.io/Todolist"} />
+                            <Project style={todolistToolkit} title={'todolistToolkit'} href={"https://InnaMiheikina.github.io/-todolist-redux-toolkit"}/>
+                            <Project style={Cards} title={'Cards'} href={"https://InnaMiheikina.github.io/cards-project"}/>
+                            <Project style={Counter} title={'Counter'} href={"https://InnaMiheikina.github.io/microtaski"}/>
                         </div>
                     </Fade>
                 </div>
