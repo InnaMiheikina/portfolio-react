@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.b9a5d023.css",
-    "main.js": "/portfolio-react/static/js/main.c1fb36a4.js",
+    "main.css": "/portfolio-react/static/css/main.d85d07dc.css",
+    "main.js": "/portfolio-react/static/js/main.65e93d68.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/1667302195_4-celes-club-p-estetichnie-bezhevie-oboi-na-telefon-krasi-4.jpg": "/portfolio-react/static/media/1667302195_4-celes-club-p-estetichnie-bezhevie-oboi-na-telefon-krasi-4.355f35b01f140b1d8d63.jpg",
+    "static/media/IMG_0606.JPEG": "/portfolio-react/static/media/IMG_0606.7e63c5592e16765a908f.JPEG",
+    "static/media/instagram-167-svgrepo-com.png": "/portfolio-react/static/media/instagram-167-svgrepo-com.bfd1b701ba0dbdcb39bb.png",
+    "static/media/jpg": "/portfolio-react/static/media/3a4798417da6336830de9f09ee624055.7bf5b5147437526cacce.jpg",
+    "static/media/facebook-svgrepo-com.png": "/portfolio-react/static/media/facebook-svgrepo-com.b79d8a9a20456d58a014.png",
     "index.html": "/portfolio-react/index.html",
-    "main.b9a5d023.css.map": "/portfolio-react/static/css/main.b9a5d023.css.map",
-    "main.c1fb36a4.js.map": "/portfolio-react/static/js/main.c1fb36a4.js.map",
+    "static/media/arrow.svg": "/portfolio-react/static/media/arrow.d0c3e438b34e28411e0092b2d13292ed.svg",
+    "main.d85d07dc.css.map": "/portfolio-react/static/css/main.d85d07dc.css.map",
+    "main.65e93d68.js.map": "/portfolio-react/static/js/main.65e93d68.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9a5d023.css",
-    "static/js/main.c1fb36a4.js"
+    "static/css/main.d85d07dc.css",
+    "static/js/main.65e93d68.js"
   ]
 }
