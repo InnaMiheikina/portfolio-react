@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.d85d07dc.css",
-    "main.js": "/portfolio-react/static/js/main.65e93d68.js",
+    "main.css": "/portfolio-react/static/css/main.38426549.css",
+    "main.js": "/portfolio-react/static/js/main.6358f36f.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/1667302195_4-celes-club-p-estetichnie-bezhevie-oboi-na-telefon-krasi-4.jpg": "/portfolio-react/static/media/1667302195_4-celes-club-p-estetichnie-bezhevie-oboi-na-telefon-krasi-4.355f35b01f140b1d8d63.jpg",
     "static/media/IMG_0606.JPEG": "/portfolio-react/static/media/IMG_0606.7e63c5592e16765a908f.JPEG",
@@ -10,12 +10,12 @@
     "static/media/facebook-svgrepo-com.png": "/portfolio-react/static/media/facebook-svgrepo-com.b79d8a9a20456d58a014.png",
     "index.html": "/portfolio-react/index.html",
     "static/media/arrow.svg": "/portfolio-react/static/media/arrow.d0c3e438b34e28411e0092b2d13292ed.svg",
-    "main.d85d07dc.css.map": "/portfolio-react/static/css/main.d85d07dc.css.map",
-    "main.65e93d68.js.map": "/portfolio-react/static/js/main.65e93d68.js.map",
+    "main.38426549.css.map": "/portfolio-react/static/css/main.38426549.css.map",
+    "main.6358f36f.js.map": "/portfolio-react/static/js/main.6358f36f.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d85d07dc.css",
-    "static/js/main.65e93d68.js"
+    "static/css/main.38426549.css",
+    "static/js/main.6358f36f.js"
   ]
 }
