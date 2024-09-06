@@ -34,7 +34,7 @@ const Projects = () => {
                     <Fade>
                         <div className={style.projects}>
                             <Project style={socialNetwork} title={'Social Network'} href={"https://InnaMiheikina.github.io/samurai-way"} />
-                            <Project style={todolist} title={'Todolist'} href={"https://innamiheikina.github.io/todolist-redux"} />
+                            <Project style={todolist} title={'Todolist'} href={"https://innamiheikina.github.io/todolist-redux/"} />
                             <Project style={todolistToolkit} title={'todolistToolkit'} href={"https://InnaMiheikina.github.io/-todolist-redux-toolkit"}/>
                             <Project style={Cards} title={'Cards'} href={"https://InnaMiheikina.github.io/cards-project"}/>
                             <Project style={Counter} title={'Counter'} href={"https://InnaMiheikina.github.io/microtaski"}/>
